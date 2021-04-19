@@ -1,0 +1,15 @@
+
+Wam's est une application web qui permet de partager ses photographies ou postes , 
+de fournir une appréciation positive (fonction « j'aime ») et de laisser des commentaires sur les clichés déposés par les autres utilisateurs.
+
+Ce site comporte trois role; visiteur,utilisateur et admin. 
+
+ si le cas et visiteur, vous pouvez voir les postes mais sans commenter ou liker
+
+Pour profiter de ce service , tout d'abbord, vous devrait s'authentifier ou bien créer un noveau compte .
+
+ ici, l'utilisateur peut editer son profil (uploader son image et modifier le son bio)
+ également, il peut ajouter,supprimer et modifier ses postes .
+
+L'application " WAM'S " possède un role Admin qui a peut controler les postes négatives et les supprimer en cas de besoin.
+en utilisant un filtrage soit par utilisateur soit par poste, et yopp! user is deleted !
